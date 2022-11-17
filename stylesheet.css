@@ -1,0 +1,29 @@
+
+
+ul.myUL {
+    display: inline-block;
+    text-align: right;
+}
+
+div.container {
+    text-align: center;
+  }
+
+   .left{
+    margin-right:60%;
+
+   }
+
+   .right{
+    margin-left:60%;
+    text-align:left;
+display: inline-block;
+   }
+
+   .ul {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    text-align:left;
+display: inline-block;
+  }
